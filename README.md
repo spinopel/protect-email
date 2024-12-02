@@ -13,4 +13,5 @@ mailto with subject using the rot13 encoder. Run index.html in internet browser.
 
 Links:
 - https://cryptii.com/pipes/rot13-decoder
+- https://dnschecker.org/rot13-decoder-encoder.php
 - https://blog.hubspot.com/website/html-mailto

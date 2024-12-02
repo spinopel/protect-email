@@ -6,6 +6,19 @@
 </head>
 <body>
 <h1>Mailto with subject</h1>
-<script>function decode(e){return e.replace(/[a-zA-Z]/g,function(e){return String.fromCharCode((e<="Z"?90:122)>=(e=e.charCodeAt(0)+13)?e:e-26)})}function openMailer(e){var r=decode("znvygb:grfg@znvy.pbz?fhowrpg=Guvf vf na rznvy");e.setAttribute("href",r),e.setAttribute("onclick",""),e.firstChild.nodeValue="Open email software"}</script><a href=""id=email onclick=openMailer(this)>Email: please click</a>
+<script type="text/javascript">
+function decode(a) {
+return a.replace(/[a-zA-Z]/g, function(c){
+return String.fromCharCode((c <= "Z" ? 90 : 122) >= (c = c.charCodeAt(0) + 13) ? c : c - 26);
+})
+}; 
+function openMailer(element) {
+var y = decode("znvygb:grfg@znvy.pbz?fhowrpg=Guvf vf na rznvy");
+element.setAttribute("href", y);
+element.setAttribute("onclick", "");
+element.firstChild.nodeValue = "Open email software";
+};
+</script> 
+<a id="email" href=" " onclick='openMailer(this);'>Email: please click</a>
 </body>
 </html>

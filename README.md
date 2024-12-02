@@ -15,4 +15,3 @@ Links:
 - https://www.ionos.com/digitalguide/e-mail/e-mail-security/protecting-your-email-address-how-to-do-it/
 - https://cryptii.com/pipes/rot13-decoder
 - https://dnschecker.org/rot13-decoder-encoder.php
-- https://blog.hubspot.com/website/html-mailto
